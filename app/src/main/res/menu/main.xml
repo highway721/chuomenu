@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="@string/home_text" android:id="@+id/home" app:showAsAction="ifRoom"/>
+    <item android:title="@string/ramen_text" android:id="@+id/ramen"/>
+    <item android:id="@+id/curry" android:title="@string/curry_text"/>
+    <item android:title="@string/teishoku_text" android:id="@+id/teishoku"/>
+    <item android:title="@string/don_text" android:id="@+id/don"/>
+    <item android:title="@string/udon_text" android:id="@+id/udon"/>
+</menu>

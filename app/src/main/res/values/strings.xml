@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">chuo-menu</string>
+    <string name="home_text">ホーム</string>
+    <string name="ramen_text">ラーメン</string>
+    <string name="curry_text">カレー</string>
+    <string name="teishoku_text">定食、鉄板</string>
+    <string name="don_text">丼</string>
+    <string name="udon_text">うどん</string>
+
+</resources>
